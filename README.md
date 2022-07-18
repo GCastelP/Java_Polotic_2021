@@ -3,8 +3,7 @@
 [![silicon-misiones-logo.png](https://i.postimg.cc/DwZpT04N/silicon-misiones-logo.png)](https://postimg.cc/tYKNdX5d)
 
 
-## Ejercicios plan de estudio Desarrollador Web Java
-fullstack junior 
+## Ejercicios plan de estudio Desarrollador Web Java Fullstack Junior 
 
 
 Guia de Ejercicios
