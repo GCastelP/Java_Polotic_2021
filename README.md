@@ -1,7 +1,7 @@
-# GUÍA DE EJERCICIOS 
-PLAN DE ESTUDIO Desarrollo web fullstack con Java - Silicon Misiones y Polo TIC Misiones
+# GUÍA DE EJERCICIOS. Live Coding.
+Del Plan de Estudio Desarrollo web fullstack con Java - Silicon Misiones y Polo TIC Misiones
 ***
-Acá va un párrafo que describa lo que es el proyecto
+Propuesta de resioluciones a los ejercicios propuestos de la curada Agosto - Diciembre 2021
 ***
 ## Comenzando 🚀
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
