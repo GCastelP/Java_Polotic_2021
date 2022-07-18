@@ -1,4 +1,5 @@
-# PLAN DE ESTUDIO Desarrollo web fullstack con Java - Silicon Misiones y Polo TIC Misiones
+# GUÍA DE EJERCICIOS 
+PLAN DE ESTUDIO Desarrollo web fullstack con Java - Silicon Misiones y Polo TIC Misiones
 ***
 Acá va un párrafo que describa lo que es el proyecto
 ***
