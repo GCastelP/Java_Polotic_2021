@@ -2,7 +2,7 @@
 
 Del Plan de Estudio Desarrollo web fullstack con Java - Silicon Misiones y Polo TIC Misiones
 
-[![silicon-misiones-logo.png](https://i.postimg.cc/DwZpT04N/silicon-misiones-logo.png)](https://postimg.cc/tYKNdX5d)
+[![silicon-misiones-logo.png](https://i.postimg.cc/DwZpT04N/silicon-misiones-logo.png)](https://postimg.cc/tYKNdX5d)  [![polotic.jpg](https://i.postimg.cc/Hnjp3DTr/polotic.jpg)](https://postimg.cc/T5MMYsLx)
 ***
 Propuesta de resolución a los ejercicios propuestos de la curada Agosto - Diciembre 2021
 ***
