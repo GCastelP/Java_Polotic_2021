@@ -7,5 +7,5 @@ fullstack junior
 Guia de Ejercicios
 Actividades Basicas
 
-
-
+Autor ✒️
+Gerardo Castellanos Torres
