@@ -1,6 +1,8 @@
 # GUÍA DE EJERCICIOS. Live Coding.
-[![silicon-misiones-logo.png](https://i.postimg.cc/DwZpT04N/silicon-misiones-logo.png)](https://postimg.cc/tYKNdX5d)
+
 Del Plan de Estudio Desarrollo web fullstack con Java - Silicon Misiones y Polo TIC Misiones
+
+[![silicon-misiones-logo.png](https://i.postimg.cc/DwZpT04N/silicon-misiones-logo.png)](https://postimg.cc/tYKNdX5d)
 ***
 Propuesta de resolución a los ejercicios propuestos de la curada Agosto - Diciembre 2021
 ***
