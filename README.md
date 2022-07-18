@@ -6,7 +6,7 @@
 ## Ejercicios plan de estudio Desarrollador Web Java Fullstack Junior 
 
 
-### Bold Guia de Ejercicios
+### Guía de Ejercicios
 Actividades Basicas
 
 Autor ✒️
