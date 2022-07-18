@@ -1,11 +1,13 @@
-# Título del Proyecto
+# PLAN DE ESTUDIO Desarrollo web fullstack con Java - Silicon Misiones y Polo TIC Misiones
 ***
 Acá va un párrafo que describa lo que es el proyecto
 ***
 ## Comenzando 🚀
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
-![Image text](E:\GCastelT\Downloads\00 PROGRAMACION\0000 Tecnicatura ISPC\1er CUATRIMESTRE\Programador - TSDWAD - 2022\BLOQUE II\Git y GitHub/to/the/screenshot.png)
+[![silicon-misiones-logo.png](https://i.postimg.cc/DwZpT04N/silicon-misiones-logo.png)](https://postimg.cc/tYKNdX5d)
+
+
 Mira Deployment para conocer como desplegar el proyecto.
 
 Pre-requisitos 📋
