@@ -7,7 +7,7 @@ Del Plan de Estudio Desarrollo web fullstack con Java - Silicon Misiones y Polo 
 Propuesta de resolución a los ejercicios propuestos de la curada Agosto - Diciembre 2021
 ***
 ## Comenzando 🚀
-Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
+Las resoluciones propuestas son un ?live coding' y pueden haber varias soluciones alternatinas a la que se propone.
 ***
 
 
